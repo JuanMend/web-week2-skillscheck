@@ -5,17 +5,19 @@
 //Create an array called 'groceries' that contains three grocery items as a string
 
 // Code Here
-
+let groceries = ['apples', 'bread', 'milk'];
 //////////////////STEP 2////////////////////
 //Create a variable called 'yourName' that is equal to your name as a string
 
 // Code Here
-
+let yourName = 'Carlos';
 //////////////////STEP 3////////////////////
 //Create a function called 'setGroceryListTitle' that takes in one parameter called x. The function should return a string of 'XPARAM's Grocery List'.
 
 // Code Here
-
+ function setGroceryListTitle(x) {
+     
+ }
 //////////////////STEP 4////////////////////
 //Create a function called 'addItem' that takes in one paramter called item. Add the item param to the end of the groceries array created above. Inside of addItem, invoke displayData() which is a function we created that takes care of some of the leg work unrelated to this module.
 

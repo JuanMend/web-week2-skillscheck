@@ -1,0 +1,150 @@
+
+header
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100vw;
+    height: 10vh;
+    background: gray;
+   
+}
+header li
+{
+cursor: pointer;
+}
+
+.nav
+{
+    list-style-type: none;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 95vw;
+    display: flex;
+
+}
+
+.left
+{
+    display: flex;
+    width: 90vw;
+    font-size: 35px;
+}
+
+.right
+{
+    display: flex;
+    width: 20vw;
+    justify-content: space-evenly;
+}
+
+.text
+{
+    background: black;
+    height: 40vh;
+    display: flex;
+    width: 100vw;
+}
+
+h1
+{
+    text-transform: uppercase;
+    font-size: 50px;
+    color: yellow;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 99vw;
+}
+
+section
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 25vw;
+    
+}
+
+.box1 
+{
+    background: rgb(143, 214, 143);
+    width: 15vw;
+    height: 30vh;
+    border-radius: 10px;
+
+} 
+
+.box2
+{
+    background: rgb(143, 214, 143);
+    width: 15vw;
+    height: 30vh;
+    border-radius: 10px;
+}
+
+.box3
+{
+    background: rgb(143, 214, 143);
+    width: 15vw;
+    height: 30vh;
+    border-radius: 10px;
+}
+
+.new-shape
+{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.rect1
+{
+    width: 40vw;
+    height: 43vh;
+    background: rgb(245, 192, 94);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rect2
+{
+    width: 40vw;
+    height: 43vh;
+    background: rgb(245, 192, 94);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+article
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 98vw;
+
+}
+
+img
+{
+    width: 20vw;
+    height: 24vh;
+    margin-top: 35px;
+}
+
+p
+{
+    width: 20vw;
+    height: 10vh;
+}
+
+footer
+{
+    height: 20vh;
+    background: rgb(18, 33, 65);
+    margin-top: 10vh;
+
+}
